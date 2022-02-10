@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ColorPickerView">
+        <attr name="showSelectedColor" format="boolean" />
+        <attr name="useShadow" format="boolean" />
+        <attr name="isTouchable" format="boolean" />
+        <attr name="showEditGraphic" format="boolean" />
+        <attr name="centerCircleSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
